@@ -1,0 +1,3 @@
+/Users/ethan.kerr/CLionProjects/DayOfWeek/cmake-build-debug/CMakeFiles/DayOfWeek.dir
+/Users/ethan.kerr/CLionProjects/DayOfWeek/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ethan.kerr/CLionProjects/DayOfWeek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
